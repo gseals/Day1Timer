@@ -29,7 +29,7 @@
 ![Timer Paused](https://raw.githubusercontent.com/gseals/Day1Timer/master/screenshots/TimerPaused.png)
 
 ### Timer Restarted
-![Timer Restarted](https://raw.githubusercontent.com/gseals/Day1Timer/master/screenshots/TimerPaused.png)
+![Timer Restarted](https://raw.githubusercontent.com/gseals/Day1Timer/master/screenshots/TimerRestarted.png)
 
 ## How to Run
 
