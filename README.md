@@ -20,13 +20,16 @@
 ## Screenshots
 
 ### Landing Page
-![Landing Page](https://raw.githubusercontent.com/gseals/Day2Calculator/master/screenshots/LandingPage.png)
+![Landing Page](https://raw.githubusercontent.com/gseals/Day1Timer/master/screenshots/LandingPage.png)
 
 ### Timer Started
-![Landing Page](https://raw.githubusercontent.com/gseals/Day2Calculator/master/screenshots/LandingPage.png)
+![Timer Started](https://raw.githubusercontent.com/gseals/Day1Timer/master/screenshots/TimerStarted.png)
 
 ### Timer Paused
-![Landing Page](https://raw.githubusercontent.com/gseals/Day2Calculator/master/screenshots/LandingPage.png)
+![Timer Paused](https://raw.githubusercontent.com/gseals/Day1Timer/master/screenshots/TimerPaused.png)
+
+### Timer Restarted
+![Timer Restarted](https://raw.githubusercontent.com/gseals/Day1Timer/master/screenshots/TimerPaused.png)
 
 ## How to Run
 
