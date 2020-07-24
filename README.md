@@ -25,10 +25,10 @@
 ### Timer Started
 ![Timer Started](https://raw.githubusercontent.com/gseals/Day1Timer/master/screenshots/TimerStarted.png)
 
-### Timer Paused
+### Timer Paused (Reset button active)
 ![Timer Paused](https://raw.githubusercontent.com/gseals/Day1Timer/master/screenshots/TimerPaused.png)
 
-### Timer Restarted
+### Timer Restarted (Reset button inactive)
 ![Timer Restarted](https://raw.githubusercontent.com/gseals/Day1Timer/master/screenshots/TimerRestarted.png)
 
 ## How to Run
